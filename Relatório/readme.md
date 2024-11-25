@@ -25,3 +25,9 @@ Exercício 1:
 ![V4.0](img/ex1V4.png)
 Exercício 2:
 ![V4.0](img/ex2V4.png)
+
+--Ignorar regra em alguma parte do código--
+Para ignorar em algum trecho do código as regras impostas, você pode preparar uma descrição dentro do código, detalhando qual regra deve ser ignorada:
+![ExConsole.log](img/ignore.png)
+resultado:
+![ExConsole.log](img/ignoreError.png)
