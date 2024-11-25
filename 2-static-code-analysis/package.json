@@ -5,6 +5,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint .",
+    "lint1": "eslint ex1.js",
+    "lint2": "eslint ex2.js",
     "start": "node index.js"
   },
   "devDependencies": {
