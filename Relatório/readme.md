@@ -15,6 +15,12 @@ Mais algumas regras adicionadas, incluindo uma que apenas dá um warn.
 ![V3.0](img/codeV3.png)
 ![V3.0](img/errorV3.png)
 
+--versão 4.0--
+Depois de buscar ainda mais error, cheguei em um resultado próximo do exigido, além disso, percebi que as regras que vou adicionando passaram a fazer menos impacto, ou seja, usei já as que mais fariam efeito, restando diversas que dariam apenas 1 ou dois erros a mais.
+
+![V4.0](img/codeV4.png)
+![V4.0](img/errorV4.png)
+
 
 
 
